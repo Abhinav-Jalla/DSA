@@ -47,6 +47,7 @@ class BinarySearchTree {
         const queue = [root];
 
         while (queue.length) {
+            
             const levelSize = queue.length;
             const level = [];
 
