@@ -84,4 +84,6 @@ For Sorting and Searching to find pivot use Math.floor
 
 Compare first interval end with the next adjacent interval start and if greater. Make sure to have the bigger element among both as end interval.
 If the comparison of first interval end with adjacent interval start fails, add the complete interval in output and iterate for others.
+
+9. Breadth First Search(BFS)
     
